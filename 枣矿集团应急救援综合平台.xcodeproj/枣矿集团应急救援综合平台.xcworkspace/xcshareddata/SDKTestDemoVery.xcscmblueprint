@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C828C96CC050EED419FFA7598E044EAC29C541E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d527bfd2-f195-11dd-984d-ab748d24aa7e++1904" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C828C96CC050EED419FFA7598E044EAC29C541E" : 0,
+    "d527bfd2-f195-11dd-984d-ab748d24aa7e++1904" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BFFD8E70-F96D-4800-AC16-77CE9370291E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C828C96CC050EED419FFA7598E044EAC29C541E" : "TestSDKDemo\/",
+    "d527bfd2-f195-11dd-984d-ab748d24aa7e++1904" : "TestSDKDemo\/SDKTestDemoVery\/minizip\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SDKTestDemoVery",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SDKTestDemoVery.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:ios_repos\/TestDemoSDK",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C828C96CC050EED419FFA7598E044EAC29C541E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/ziparchive.googlecode.com\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d527bfd2-f195-11dd-984d-ab748d24aa7e++1904"
+    }
+  ]
+}
